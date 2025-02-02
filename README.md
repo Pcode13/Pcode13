@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 💬 Ask me about **React js , Java script and Type script**
+- 💬 Ask me about **React Native, React JS, Javascript and Type script**
 
 - 📫 How to reach me **veer.pragati99@gmail.com**
 
